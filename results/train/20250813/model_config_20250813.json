@@ -1,0 +1,12 @@
+{
+    "input_depth": 1,
+    "NET_TYPE": "skip",
+    "pad": "reflection",
+    "upsample_mode": "bilinear",
+    "n_channels": 1,
+    "skip_n33d": 128,
+    "skip_n33u": 128,
+    "skip_n11": 4,
+    "num_scales": 5,
+    "downsample_mode": "stride"
+}

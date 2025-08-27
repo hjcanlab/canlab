@@ -1,0 +1,5 @@
+[default]
+entity = sxspp
+project = canlab
+base_url = https://api.wandb.ai
+
